@@ -12,7 +12,7 @@ cryptography==3.4.8
 #dbus-python==1.2.18
 defer==1.0.4
 distro==1.7.0
-distro-info==1.1+ubuntu0.2
+#distro-info==1.1+ubuntu0.2
 duplicity==0.8.21
 fasteners==0.14.1
 Flask==3.0.3
@@ -60,7 +60,7 @@ pyparsing==2.4.7
 pyRFC3339==1.1
 #python-apt==2.4.0+ubuntu4
 python-dateutil==2.8.1
-python-debian==0.1.43+ubuntu1.1
+#python-debian==0.1.43+ubuntu1.1
 pytz==2022.1
 pyxdg==0.27
 PyYAML==5.4.1
@@ -71,8 +71,8 @@ six==1.16.0
 SQLAlchemy==2.0.36
 systemd-python==234
 typing_extensions==4.12.2
-ubuntu-drivers-common==0.0.0
-ubuntu-pro-client==8001
+#ubuntu-drivers-common==0.0.0
+#ubuntu-pro-client==8001
 ufw==0.36.1
 unattended-upgrades==0.1
 urllib3==1.26.5
